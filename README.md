@@ -1,3 +1,3 @@
-# Cities translator
+# Cities db parser
 
-Translates the array of world cities represented in ```./cities.js```
+Parses cities from [here](http://www.geonames.org/) into ```./cities.json```
